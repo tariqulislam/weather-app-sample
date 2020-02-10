@@ -1,5 +1,3 @@
-# Redux Integration in React JS With `create-react-app`
-
 ## Installation
 
 1. Clone project by `git clone https://github.com/tariqulislam/weather-app-sample.git`
